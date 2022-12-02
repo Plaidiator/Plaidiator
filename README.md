@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Plaidiator
+- 👋 Hi, I’m Brandon Kelfstrom (@Plaidiator)
 - 👀 I’m interested in data science, game development, and machine learning
 - 🌱 I’m currently studying computer science at SNHU
 - 📫 How to reach me - brandonkelf27@gmail.com
